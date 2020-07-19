@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<stack>
+#include<queue>
 using namespace std;
 const int MAX = 100000;
 
